@@ -1,3 +1,7 @@
 micronaut:
   application:
     name: micronaut-issue-test
+bintray:
+   organization: micronaut
+   repository: profiles
+   apiversion: v111
